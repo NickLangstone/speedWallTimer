@@ -1,2 +1,12 @@
-# speedWallTimer
-Timer based on RaspberryPi for ISFC speed climbing competition
+#Speed SallTimer
+--------------
+
+A timer based on a raspberry Pi for timing IFSC speed climbing competitionsa
+
+install
+-----------------
+sudo apt-get install python-pyaudio
+
+
+
+
